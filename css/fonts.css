@@ -1,0 +1,70 @@
+@font-face {
+	font-family: 'UniNeueBlack';
+	src: url('../fonts/UniNeueBlack.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueBlack-Italic';
+	src: url('../fonts/UniNeueBlack-Italic.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueBold';
+	src: url('../fonts/UniNeueBold.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueBold-italic';
+	src: url('../fonts/UniNeueBold-Italic.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueBook';
+	src: url('../fonts/UniNeueBook.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueBook-italic';
+	src: url('../fonts/UniNeueBook-Italic.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueHeavy';
+	src: url('../fonts/UniNeueHeavy.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueHeavy-italic';
+	src: url('../fonts/UniNeueHeavy-italic.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueLight';
+	src: url('../fonts/UniNeueLight.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueLight-italic';
+	src: url('../fonts/UniNeueLight-Italic.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueRegular';
+	src: url('../fonts/UniNeueRegular.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueRegular-italic';
+	src: url('../fonts/UniNeueRegular-Italic.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueThin';
+	src: url('../fonts/UniNeueThin.ttf') format('truetype');
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UniNeueThin-italic';
+	src: url('../fonts/UniNeueThin-Italic.ttf') format('truetype');
+	font-style: normal;
+}
